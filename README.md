@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Kevin - aka MatrixSystemPVP 👋
+
+[![Website](https://img.shields.io/website?label=matrixgaming.ddns.net&style=for-the-badge&url=https%3A%2F%2Fmatrixgaming.ddns.net)](https://matrixgaming.ddns.net)
+[![Website](https://img.shields.io/website?label=matrixbot.ddns.net&style=for-the-badge&url=https%3A%2F%2Fmatrixgaming.ddns.net:4430)](http://matrixbot.ddns.net)
+[![Website](https://img.shields.io/discord/738111582864932897?label=Discord%20Server&style=for-the-badge)](https://discord.gg/kEbQyy6)
 
 <!--
 **MatrixSystemPVP/MatrixSystemPVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
