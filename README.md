@@ -8,7 +8,18 @@
 
 - My biggest project is my Discord Bot named [MatrixBot][botwebsite]
 
+### Connect with me:
+
+[<img align="left" alt="matrixgaming.ddns.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="MatrixSystemPVP | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="MatrixSystemPVP | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MatrixSystemPVP | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://matrixgaming.ddns.net
 [botwebsite]: http://matrixbot.ddns.net
+[youtube]: https://www.youtube.com/channel/UCUINFhdoeBkF2iL9klsz4EQ
+[twitter]: https://twitter.com/MatrixSystemPVP
+[instagram]: https://www.instagram.com/matrixsystempvp/
 <!--
 **MatrixSystemPVP/MatrixSystemPVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
