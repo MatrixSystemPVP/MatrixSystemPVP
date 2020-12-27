@@ -4,6 +4,11 @@
 [![Website](https://img.shields.io/website?label=matrixbot.ddns.net&style=for-the-badge&url=https%3A%2F%2Fmatrixgaming.ddns.net:4430)](http://matrixbot.ddns.net)
 [![Website](https://img.shields.io/discord/738111582864932897?label=Discord%20Server&style=for-the-badge)](https://discord.gg/kEbQyy6)
 
+## I'm a Hobby Developer and Gamer!
+
+- My biggest project is my Discord Bot named [MatrixBot][botwebsite]
+
+[botwebsite]: http://matrixbot.ddns.net
 <!--
 **MatrixSystemPVP/MatrixSystemPVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
