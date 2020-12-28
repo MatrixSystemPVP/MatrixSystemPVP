@@ -6,7 +6,7 @@
 
 ## I'm a Hobby Developer and Gamer!
 
-- My biggest project is my Discord Bot named [MatrixBot][botwebsite]
+- 🤖 My biggest project is my Discord Bot named [MatrixBot][botwebsite]
 
 ### Connect with me:
 
