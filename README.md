@@ -1,7 +1,7 @@
 ### Hi there, I'm Kevin - aka MatrixSystemPVP 👋
 
-[![Website](https://img.shields.io/website?label=matrixgaming.ddns.net&style=for-the-badge&url=https%3A%2F%2Fmatrixgaming.ddns.net)](https://matrixgaming.ddns.net)
-[![Website](https://img.shields.io/website?label=matrixbot.ddns.net&style=for-the-badge&url=https%3A%2F%2Fmatrixgaming.ddns.net:4430)](http://matrixbot.ddns.net)
+[![Website](https://img.shields.io/website?label=teammatrix.ddns.net&style=for-the-badge&url=https%3A%2F%2Fteammatrix.ddns.net)](https://teammatrix.ddns.net)
+[![Website](https://img.shields.io/website?label=matrixbot.ddns.net&style=for-the-badge&url=https%3A%2F%2Fteammatrix.ddns.net:4430)](http://matrixbot.ddns.net)
 [![Website](https://img.shields.io/discord/738111582864932897?label=Discord%20Server&style=for-the-badge)](https://discord.gg/kEbQyy6)
 
 ## I'm a Hobby Developer and Gamer!
@@ -10,12 +10,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="matrixgaming.ddns.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="teammatrix.ddns.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MatrixSystemPVP | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="MatrixSystemPVP | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MatrixSystemPVP | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://matrixgaming.ddns.net
+[website]: https://teammatrix.ddns.net
 [botwebsite]: http://matrixbot.ddns.net
 [youtube]: https://www.youtube.com/channel/UCUINFhdoeBkF2iL9klsz4EQ
 [twitter]: https://twitter.com/MatrixSystemPVP
