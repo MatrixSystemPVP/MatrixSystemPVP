@@ -1,7 +1,7 @@
 ### Hi there, I'm Kevin - aka MatrixSystemPVP 👋
 
 [![Website](https://img.shields.io/website?label=teammatrix.ddns.net&style=for-the-badge&url=https%3A%2F%2Fteammatrix.ddns.net)](https://teammatrix.ddns.net)
-[![Website](https://img.shields.io/website?label=matrixbot.ddns.net&style=for-the-badge&url=https%3A%2F%2Fteammatrix.ddns.net:4430)](http://matrixbot.ddns.net)
+[![Website](https://img.shields.io/website?label=matrixbot.ddns.net&style=for-the-badge&url=https%3A%2F%2Fmatrixbot.ddns.net)](http://matrixbot.ddns.net)
 [![Website](https://img.shields.io/discord/738111582864932897?label=Discord%20Server&style=for-the-badge)](https://discord.gg/kEbQyy6)
 
 ## I'm a Hobby Developer and Gamer!
